@@ -1,2 +1,3 @@
 # SAMIP
-xyz
+This is my first Repository
+
